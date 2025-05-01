@@ -2,13 +2,11 @@
 
 A full-featured social media web application built with the **MERN stack**, offering real-time messaging, post sharing, and a seamless user experience.
 
----
 
 ## 🚀 Overview
 
 Welcome to my **Threads App Clone**, a powerful full-stack web application inspired by modern social platforms. This project integrates real-time chat, social interactions, and responsive design — all built using the **MERN stack**, **Socket.io**, and **Chakra UI**. Designed to be scalable, intuitive, and user-friendly.
 
----
 
 ## 🎮 Features
 
@@ -25,7 +23,6 @@ Welcome to my **Threads App Clone**, a powerful full-stack web application inspi
 - 📱 **Fully Responsive**: Smooth performance across desktop, tablet, and mobile  
 - 🚀 **Ready for Deployment**: Optimized for hosting on free platforms  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +33,6 @@ Welcome to my **Threads App Clone**, a powerful full-stack web application inspi
 - **Chat**: Socket.io  
 - **Image Hosting**: Cloudinary  
 
----
 
 ## ⚙️ Environment Setup
 
