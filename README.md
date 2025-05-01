@@ -67,8 +67,6 @@ npm run build
 npm start
 ```
 
-
 ## 🙋‍♂️ Contact
 
 For suggestions, collaborations, or improvements, feel free to reach out through GitHub or open an issue.
-```
