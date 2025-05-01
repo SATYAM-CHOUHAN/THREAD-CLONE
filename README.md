@@ -44,4 +44,31 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret 
+
+
+## 🧪 Run the Application
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Build the app
+
+```bash
+npm run build
+```
+
+### Start the app
+
+```bash
+npm start
+```
+
+
+## 🙋‍♂️ Contact
+
+For suggestions, collaborations, or improvements, feel free to reach out through GitHub or open an issue.
+```
